@@ -6,7 +6,7 @@
   var pluginVersion = '1.0';
 
   // Основной URL API для нового источника
-  var apiUrl = 'https://api.amik.ru'; // Замените на реальный URL API
+  var apiUrl = 'https://github.com/haz2107/jsamik/blob/main/Amiklampa'; // Замените на реальный URL API
 
   // Функция для загрузки данных с API
   function fetchData(url, callback) {
